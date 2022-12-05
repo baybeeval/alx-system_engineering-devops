@@ -1,2 +1,2 @@
 !#/bin/bash
-head Hellow world 
+echo Hello world 
